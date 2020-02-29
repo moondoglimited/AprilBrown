@@ -8214,6 +8214,8 @@ textarea.form-control {
 .heading-section.heading-section-white p {
   color: rgba(255, 255, 255, 0.9); }
 
+  .hero-wrap a{ color:white;}
+
 .hero-wrap,
 .img,
 .blog-img,
